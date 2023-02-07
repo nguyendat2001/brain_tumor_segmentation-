@@ -25,8 +25,5 @@ The images below contains:
 2. Ground truth 
 3. Predicted mask
 
-| ![](results/01_test_0.png) |
-| :--: |
-| ![](results/02_test_0.png) |
-| ![](results/03_test_0.png) |
-| ![](results/04_test_0.png) |
+| ![](image.png) |
+
